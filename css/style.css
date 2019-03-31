@@ -1,0 +1,70 @@
+body {
+font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background: white;
+  text-align: center;
+}
+
+header nav {
+  float: right;
+  font-size: 15px;
+  margin-top: 20px
+}
+
+header nav a.active {
+  background: #BDBDBD;
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 10px 10px;
+  border-radius: 10px;
+}
+
+#portada img {
+  height: 220px;
+  width: 180px;
+}
+
+.portada {
+  padding: 50px 0px 0px 0px;
+  background: #E6E6E6;
+  font-size: 12px;
+  border-radius: 20px;
+}
+
+.portada h1 h2 {
+ margin-left: 10px;
+}
+
+#descripcion {
+  background: #E6E6E6;
+  padding: 10px 0px;
+}
+
+#descripcion img {
+  height: 100px;
+  width: 100px;
+}
+
+#descripcion a {
+  height: 100px;
+  width: 100px;
+  text-decoration: overline;
+  color: black;
+}
+
+#contacto {
+  background: #E6E6E6;
+  font-style: italic;
+  padding: 50px;
+}
+
+footer {
+  font-style: italic;
+}
